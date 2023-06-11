@@ -192,6 +192,11 @@ nav .mini-logo {
 	display: none;
 }
 
+nav .mini-logo img {
+	max-width: 25%;
+	overflow: hidden;
+}
+
 nav .logo {
 	margin-top: 25px;
 	padding: 0px 20px;
